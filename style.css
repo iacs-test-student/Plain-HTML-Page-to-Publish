@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: Futura, sans-serif;
+  color: #224;
+  background-color: #eef;  
+}
+
+div,h2,p,button {
+  display: block;
+  margin: auto;
+  
+}
+
